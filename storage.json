@@ -1,0 +1,126 @@
+{
+    "users": {
+        "connections": {
+            "nit": "a218bcec-bf4f-41cf-9ae4-6dd98dec371a"
+        },
+        "email-verificators": {},
+        "a218bcec-bf4f-41cf-9ae4-6dd98dec371a": {
+            "pass": "Edik234 1",
+            "nick": "Nit",
+            "nick_history": [
+                [
+                    "Nit",
+                    "1641404781"
+                ]
+            ],
+            "email": "nitlixis@gmail.com",
+            "forename": "Edward",
+            "surname": "Ravicher",
+            "colour": "A31DFE",
+            "badges": [],
+            "links": {},
+            "display_nick": "Nit",
+            "id": "a218bcec-bf4f-41cf-9ae4-6dd98dec371a",
+            "email_login": false,
+            "sessions": [
+                "97cc2bc9-fe45-4fca-aef6-d1ab400b9710",
+                "15265b5a-9e95-4918-a13b-06c58d8154f2",
+                "72bffe56-f0c3-4143-951e-d29516afc2b0"
+            ],
+            "data": {},
+            "sessionCreated": "97cc2bc9-fe45-4fca-aef6-d1ab400b9710"
+        }
+    },
+    "sessions": {
+        "72bffe56-f0c3-4143-951e-d29516afc2b0": {
+            "user": "a218bcec-bf4f-41cf-9ae4-6dd98dec371a",
+            "platform": "Windows",
+            "browser": "Chrome",
+            "ip": "5.18.232.62",
+            "location": [
+                {
+                    "status": "success",
+                    "country": "Russia",
+                    "countryCode": "RU",
+                    "region": "SPE",
+                    "regionName": "St.-Petersburg",
+                    "city": "St Petersburg",
+                    "zip": "190811",
+                    "lat": 59.8983,
+                    "lon": 30.2618,
+                    "timezone": "Europe/Moscow",
+                    "isp": "Z-Telecom",
+                    "org": "JSC ER-Telecom",
+                    "as": "AS41733 JSC ER-Telecom Holding",
+                    "query": "5.18.232.62",
+                    "time": "1641405022"
+                }
+            ],
+            "created": "1641405022",
+            "last": "1641405023",
+            "self": "72bffe56-f0c3-4143-951e-d29516afc2b0",
+            "return": "1"
+        },
+        "15265b5a-9e95-4918-a13b-06c58d8154f2": {
+            "user": "a218bcec-bf4f-41cf-9ae4-6dd98dec371a",
+            "platform": "Windows",
+            "browser": "Chrome",
+            "ip": "85.203.34.76",
+            "location": [
+                {
+                    "status": "success",
+                    "country": "United Kingdom",
+                    "countryCode": "GB",
+                    "region": "ENG",
+                    "regionName": "England",
+                    "city": "Slough",
+                    "zip": "SL3",
+                    "lat": 51.4991,
+                    "lon": -0.5545,
+                    "timezone": "Europe/London",
+                    "isp": "UK-2 Limited",
+                    "org": "VPN Consumer Network",
+                    "as": "AS13213 UK-2 Limited",
+                    "query": "85.203.34.76",
+                    "time": "1643307205"
+                }
+            ],
+            "created": "1643307205",
+            "last": "1643307235",
+            "self": "15265b5a-9e95-4918-a13b-06c58d8154f2",
+            "return": "0"
+        },
+        "97cc2bc9-fe45-4fca-aef6-d1ab400b9710": {
+            "user": "a218bcec-bf4f-41cf-9ae4-6dd98dec371a",
+            "platform": "Windows",
+            "browser": "Chrome",
+            "ip": "127.0.0.1",
+            "location": [
+                {
+                    "status": "fail",
+                    "message": "reserved range",
+                    "query": "127.0.0.1",
+                    "time": "1653759525.0128474"
+                }
+            ],
+            "created": "1653759525.0128474",
+            "last": "1653759525.0128474",
+            "self": "97cc2bc9-fe45-4fca-aef6-d1ab400b9710"
+        }
+    },
+    "anynote": {
+        "data": {
+            "example": []
+        }
+    },
+    "dir": "apps/games/",
+    "logging": true,
+    "log": [],
+    "autosave": true,
+    "adminlist": [
+        "a218bcec-bf4f-41cf-9ae4-6dd98dec371a"
+    ],
+    "maindata": {
+        "mcgrabber": []
+    }
+}
